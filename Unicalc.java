@@ -11,7 +11,6 @@ import java.util.regex.*;  // Pattern, Matcher, ...
 
 /**
  * @author Nicholas Bavafa
- *         A13442275, cs15fiy
  * @date 12/4/17
  * HW8
  */
